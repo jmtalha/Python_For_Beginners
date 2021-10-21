@@ -1,4 +1,4 @@
-# A data type is a classfinction of data which tells a compiler or interpreter how the programmer intends to use the data.
+# A data type is a classfinction of data which tells a compiler or interpreter how the programmer intends to use the data
 
 # Data type 
 # Integer     int
